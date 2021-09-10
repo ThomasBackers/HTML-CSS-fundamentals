@@ -1,2 +1,2 @@
 # HTML-CSS-fundamentals
-a much more beautiful README is coming
+https://thomasbackers.github.io/HTML-CSS-fundamentals/presentation.html
